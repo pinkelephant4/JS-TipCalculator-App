@@ -71,6 +71,7 @@ body {
   font-weight: bold;
   display: grid;
   place-items: center;
+      cursor: pointer;
 }
 
 .buttonText {
